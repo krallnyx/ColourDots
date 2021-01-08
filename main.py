@@ -28,6 +28,7 @@ def init():
     tim.right(90)
     tim.forward(350)
     tim.left(90)
+    tim.hideturtle()
 
 
 if __name__ == '__main__':
